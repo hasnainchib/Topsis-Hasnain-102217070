@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Topsis-YourName-RollNumber",  # Package name
+    name="Topsis-Hasnain-102217070",  # Package name
     version="1.0.0",  # Version number
-    author="Your Name",  # Your name
-    author_email="youremail@example.com",  # Your email
+    author="Hasnain",  # Your name
+    author_email="hchib_be22@thapar.edu",  # Your email
     description="A Python package for TOPSIS decision-making.",
     long_description=open("README.md").read(),  # Read the README file
     long_description_content_type="text/markdown",
-    url="https://github.com/YourGitHubUsername/Topsis-YourName-RollNumber",  # Link to your GitHub (optional)
+    url="",  # Link to your GitHub (optional)
     packages=find_packages(),  # Automatically find your package
     classifiers=[
         "Programming Language :: Python :: 3",
