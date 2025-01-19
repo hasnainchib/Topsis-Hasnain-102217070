@@ -8,7 +8,7 @@ setup(
     description="A Python package for TOPSIS decision-making.",
     long_description=open("README.md").read(),  # Read the README file
     long_description_content_type="text/markdown",
-    url="",  # Link to your GitHub (optional)
+    url="https://github.com/hasnainchib/Topsis-Hasnain-102217070/tree/main",  # Link to your GitHub (optional)
     packages=find_packages(),  # Automatically find your package
     classifiers=[
         "Programming Language :: Python :: 3",
